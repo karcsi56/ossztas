@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ossztas", "ossztas\ossztas.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "maradek", "maradek\maradek.csproj", "{2E3AB60B-02FB-4F33-91B8-6AA76B064F1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "szamtanikozep", "szamtanikozep\szamtanikozep.csproj", "{2EEE67ED-8329-4B41-9596-8D849521327A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2E3AB60B-02FB-4F33-91B8-6AA76B064F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E3AB60B-02FB-4F33-91B8-6AA76B064F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E3AB60B-02FB-4F33-91B8-6AA76B064F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEE67ED-8329-4B41-9596-8D849521327A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEE67ED-8329-4B41-9596-8D849521327A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEE67ED-8329-4B41-9596-8D849521327A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEE67ED-8329-4B41-9596-8D849521327A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
